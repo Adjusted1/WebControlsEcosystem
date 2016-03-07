@@ -64,7 +64,7 @@ namespace WebControlsEcosystem
         public class SerializeSession
         {
             /*
-            * USE context.items for mobile compat? hell yes!
+            * USE context.items for mobile compat? yes
             * 
             */
 
@@ -108,7 +108,6 @@ namespace WebControlsEcosystem
             string controlType = Convert.ToString(o.GetType());
             if (controlType == "TextBox")
             {
-                // serialize here?
                 return o.GetType();
             }
             return null;
@@ -120,7 +119,7 @@ namespace WebControlsEcosystem
         public object returnControl(string id, string t, Type type, int x, int y)
         {
             /*
-             * record this shit for next postback etc
+             * record for next postback
              */
             //sessDict.serializeViewState(id,t,text,x,y);
             SerializeSession ss = new SerializeSession();
@@ -147,7 +146,7 @@ namespace WebControlsEcosystem
                 {
                     // txtControls tx = new txtControls();
                     //TextBox txtbox = tx.txtBoxRef;
-                    //txtbox.Text = "it worked bitches";
+                    //txtbox.Text = "it worked";
                     //txtbox.ID = "TextBox2";
                     //return txtbox;
                 }
