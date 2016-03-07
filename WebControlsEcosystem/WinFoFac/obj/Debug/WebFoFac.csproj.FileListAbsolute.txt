@@ -1,0 +1,5 @@
+c:\users\sheila\documents\visual studio 2015\Projects\WinFoFac\WinFoFac\obj\Debug\WebFoFac.csprojResolveAssemblyReference.cache
+C:\Users\Sheila\Documents\Visual Studio 2015\Projects\WinFoFac\WinFoFac\bin\Debug\WinFoFac.dll
+C:\Users\Sheila\Documents\Visual Studio 2015\Projects\WinFoFac\WinFoFac\bin\Debug\WinFoFac.pdb
+C:\Users\Sheila\Documents\Visual Studio 2015\Projects\WinFoFac\WinFoFac\obj\Debug\WinFoFac.dll
+C:\Users\Sheila\Documents\Visual Studio 2015\Projects\WinFoFac\WinFoFac\obj\Debug\WinFoFac.pdb
